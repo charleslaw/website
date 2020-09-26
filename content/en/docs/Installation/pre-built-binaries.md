@@ -9,7 +9,7 @@ description: >
 Just head to the [releases page](https://github.com/deluan/navidrome/releases) and download the latest version for you 
 platform. There are builds available for Linux (Intel and ARM, 32 and 64 bits), Windows (Intel 32 and 64 bits) and macOS (Intel 64 bits).
 
-For [Raspberry Pi](https://www.raspberrypi.org), use the Linux ARM builds. Tested with 
+For [Raspberry Pi](https://www.raspberrypi.org), use the Linux ARM builds. Run `cat /proc/cpuinfo` to determine which binary to use. Tested with 
 [Raspbian](https://www.raspberrypi.org/downloads/raspbian) Buster on Pi 4
 
 Remember to install [ffmpeg](https://ffmpeg.org/download.html) in your system, a requirement for Navidrome to work 
